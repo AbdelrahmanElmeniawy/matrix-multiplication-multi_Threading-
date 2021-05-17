@@ -1,0 +1,26 @@
+Method 1:
+-------------
+-1	10	-15	-28	
+-3	-10	15	-36	
+5	-2	-9	-20	
+Number of threads 1 
+Seconds taken 0
+Microseconds taken: 1693
+----------------------------------------------------------------------------
+Method 2:
+-------------
+-1	10	-15	-28	
+-3	-10	15	-36	
+5	-2	-9	-20	
+Number of threads 3 
+Seconds taken 0
+Microseconds taken: 1187
+----------------------------------------------------------------------------
+Method 3:
+-------------
+-1	10	-15	-28	
+-3	-10	15	-36	
+5	-2	-9	-20	
+Number of threads 12 
+Seconds taken 0
+Microseconds taken: 961

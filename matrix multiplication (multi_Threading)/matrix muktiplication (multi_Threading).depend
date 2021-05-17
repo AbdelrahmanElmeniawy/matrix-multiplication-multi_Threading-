@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1621278766 source:/home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/main.c
+	"header.h"
+
+1621275811 /home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<sys/time.h>
+
+1621261909 source:/home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/method 1.c
+	"header.h"
+
+1621261920 source:/home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/method 2.c
+	"header.h"
+
+1621261930 source:/home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/method 3.c
+	"header.h"
+
+1621278422 source:/home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/method1.c
+	"header.h"
+
+1621278436 source:/home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/method2.c
+	"header.h"
+
+1621278528 source:/home/elmeniawy/Desktop/C/matrix muktiplication (multi_Threading)/method3.c
+	"header.h"
+
